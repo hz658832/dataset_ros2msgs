@@ -1,0 +1,13 @@
+float32          azimuth_deg
+float32          baseband_cn0_dbhz
+float32          carrier_frequency_hz
+float32          cn0_dbhz
+int32            constellation_type
+float32          elevation_deg
+int32            satellite_count
+int32            svid
+bool             has_almanac_data
+bool             has_baseband_cn0_dbhz
+bool             has_carrier_frequency_hz
+bool             has_ephemeris_data
+bool             used_in_fix
